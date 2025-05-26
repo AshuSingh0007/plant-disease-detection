@@ -4,7 +4,7 @@ Plant Disease Detection is an innovative machine learning project that harnesses
 
 ## 📊 Dataset
 
-We have used the **[Plant Disease Detection Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)** from **Kaggle**, which contains a wide variety of labeled plant leaf images across different crop types and disease categories. This dataset served as the foundation for training our CNN model effectively.
+We have used the Plant Disease Detection Dataset from **Kaggle**, which contains a wide variety of labeled plant leaf images across different crop types and disease categories. This dataset served as the foundation for training our CNN model effectively.
 
 
 ## Project Structure 📂
