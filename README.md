@@ -2,13 +2,18 @@
 
 Plant Disease Detection is an innovative machine learning project that harnesses the power of Convolutional Neural Networks (CNN) and deep learning techniques to identify and classify diseases in plants. The primary objective is to offer farmers and agricultural experts a valuable tool for swift plant health diagnosis, facilitating timely intervention and minimizing the risk of crop loss.
 
+## 📊 Dataset
+
+We have used the **[Plant Disease Detection Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)** from **Kaggle**, which contains a wide variety of labeled plant leaf images across different crop types and disease categories. This dataset served as the foundation for training our CNN model effectively.
+
+
 ## Project Structure 📂
 
 The project comprises essential components:
 
 - `Plant_Disease_Detection.ipynb`: Jupyter Notebook with the code for model training.
 - `main_app.py`: Streamlit web application for plant disease prediction.
-- `requirements.txt`: List of necessary Python packages.
+
 
 - ## Usage 🌿
 
