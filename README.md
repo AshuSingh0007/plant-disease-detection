@@ -30,4 +30,3 @@ The web application (`main_app.py`) empowers users to interact with the trained 
 - tensorflow==2.7.0
 
 
-- 
