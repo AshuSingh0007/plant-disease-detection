@@ -26,7 +26,7 @@ The model was trained using the `Plant_Disease_Detection.ipynb` notebook. It emp
 
 The web application (`main_app.py`) empowers users to interact with the trained model. Upload plant images, and the application provides real-time predictions regarding the health of the plant.
 
-## Requirements 🛠️
+## Requirements  🛠️
 
 - Keras==2.8.0
 - numpy==1.21.4
